@@ -1,0 +1,10 @@
+<html>
+<head>
+    <title><%= @document.title %> | My Website</title>
+</head>
+<body>
+    <h1><%= @document.title %></h1>
+    <%- @content %>
+    <script src='https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML'></script>
+</body>
+</html>
