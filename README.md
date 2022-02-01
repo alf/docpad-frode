@@ -1,4 +1,2 @@
-# Frode Bjørdal sin webside
+# Page 1
 
-## License
-Frode Bjørdal &copy; 2016+ All rights reserved.
